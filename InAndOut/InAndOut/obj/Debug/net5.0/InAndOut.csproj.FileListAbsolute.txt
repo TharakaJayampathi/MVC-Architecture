@@ -1306,3 +1306,4 @@ C:\Users\Tharaka Jayampathi\Documents\Knowledge Management\Task 1\MVC-Architectu
 C:\Users\Tharaka Jayampathi\Documents\Knowledge Management\Task 1\MVC-Architecture\InAndOut\InAndOut\obj\Debug\net5.0\ref\InAndOut.dll
 C:\Users\Tharaka Jayampathi\Documents\Knowledge Management\Task 1\MVC-Architecture\InAndOut\InAndOut\obj\Debug\net5.0\InAndOut.pdb
 C:\Users\Tharaka Jayampathi\Documents\Knowledge Management\Task 1\MVC-Architecture\InAndOut\InAndOut\obj\Debug\net5.0\InAndOut.genruntimeconfig.cache
+C:\Users\Tharaka Jayampathi\Documents\Knowledge Management\Task 1\MVC-Architecture\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\Expense\Update.cshtml.g.cs

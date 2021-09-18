@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gYwN7Z0Xn0k2gGGOSYsevF3kQSDp/1f7QBOFncxPvoVO2w+yMmphWCbvSRyV9tuIlHamda9lzdvkggJpOPCM8Q==",
+  "dgSpecHash": "R2aBI3pBiANtqs42ug30tyw7CCFCY+lT6MFTbC2dVhsjuPMIWDaFNT91ETETw/5LQaxIWHNkZB7x+nAa0OchHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tharaka Jayampathi\\source\\repos\\InAndOut\\InAndOut\\InAndOut.csproj",
+  "projectFilePath": "C:\\Users\\Tharaka Jayampathi\\Documents\\Knowledge Management\\MVC-Architecture\\InAndOut\\InAndOut\\InAndOut.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tharaka Jayampathi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Tharaka Jayampathi\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
